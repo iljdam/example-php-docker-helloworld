@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example Dockerfile PHP with changes</p>
+        <p class="lead">APPUiO Example Dockerfile PHP changes</p>
       </div>
 
     </div><!-- /.container -->
